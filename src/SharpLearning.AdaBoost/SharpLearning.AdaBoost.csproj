@@ -10,6 +10,8 @@
     <PackageId>SharpLearning.AdaBoost</PackageId>
     <Description>Provides learning algorithms and models for AdaBoost regression and classification.</Description>
     <PackageTags>adaboost machinelearning classification regression machine learning</PackageTags>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>RAI.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">

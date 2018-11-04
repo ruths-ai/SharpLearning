@@ -10,6 +10,8 @@
     <PackageId>SharpLearning.FeatureTransformations</PackageId>
     <Description>Provides matrix and CsvRow transforms.</Description>
     <PackageTags>normalization minmax onehot missingvalues</PackageTags>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>RAI.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">

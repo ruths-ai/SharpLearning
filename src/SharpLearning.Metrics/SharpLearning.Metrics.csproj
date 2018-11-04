@@ -10,6 +10,8 @@
     <PackageId>SharpLearning.Metrics</PackageId>
     <Description>Provides classification, regression, impurity and ranking metrics.</Description>
     <PackageTags>metrics machinelearning classification regression machine learning</PackageTags>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>RAI.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">

@@ -10,6 +10,8 @@
     <PackageId>SharpLearning.InputOutput</PackageId>
     <Description>Provides CsvParser and serialization for SharpLearning.</Description>
     <PackageTags>serialization csv parsing</PackageTags>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>RAI.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">

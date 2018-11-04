@@ -10,6 +10,8 @@
     <PackageId>SharpLearning.Common.Interfaces</PackageId>
     <Description>Provides common interfaces for SharpLearning.</Description>
     <Copyright>Copyright © Mads Dabros 2014</Copyright>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>RAI.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">

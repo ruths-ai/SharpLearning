@@ -10,6 +10,8 @@
     <PackageId>SharpLearning.DecisionTrees</PackageId>
     <Description>Provides learning algorithms and models for DecisionTree regression and classification.</Description>
     <PackageTags>decisiontrees machinelearning classification regression machine learning</PackageTags>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>RAI.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">

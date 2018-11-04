@@ -10,6 +10,8 @@
     <PackageId>SharpLearning.Optimization</PackageId>
     <Description>Provides optimization algorithms.</Description>
     <PackageTags>optimization grid search random particle swarm neldermead nelder mead bayesian bayesianoptimization machine learning machinelearning</PackageTags>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>RAI.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">

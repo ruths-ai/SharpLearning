@@ -10,6 +10,8 @@
     <PackageId>SharpLearning.Containers</PackageId>
     <Description>Provides containers and base extension methods for SharpLearning.</Description>
     <Copyright>Copyright © Mads Dabros 2014</Copyright>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>RAI.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
