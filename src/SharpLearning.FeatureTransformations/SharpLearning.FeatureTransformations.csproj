@@ -7,7 +7,7 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net461</TargetFrameworks>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <PackageId>SharpLearning.FeatureTransformations</PackageId>
+    <PackageId>RAI.SharpLearning.FeatureTransformations</PackageId>
     <Description>Provides matrix and CsvRow transforms.</Description>
     <PackageTags>normalization minmax onehot missingvalues</PackageTags>
     <SignAssembly>true</SignAssembly>

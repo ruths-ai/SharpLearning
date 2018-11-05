@@ -7,7 +7,7 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net461</TargetFrameworks>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <PackageId>SharpLearning.Metrics</PackageId>
+    <PackageId>RAI.SharpLearning.Metrics</PackageId>
     <Description>Provides classification, regression, impurity and ranking metrics.</Description>
     <PackageTags>metrics machinelearning classification regression machine learning</PackageTags>
     <SignAssembly>true</SignAssembly>

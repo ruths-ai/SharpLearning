@@ -7,7 +7,7 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net461</TargetFrameworks>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <PackageId>SharpLearning.DecisionTrees</PackageId>
+    <PackageId>RAI.SharpLearning.DecisionTrees</PackageId>
     <Description>Provides learning algorithms and models for DecisionTree regression and classification.</Description>
     <PackageTags>decisiontrees machinelearning classification regression machine learning</PackageTags>
     <SignAssembly>true</SignAssembly>

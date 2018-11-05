@@ -7,7 +7,7 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net461</TargetFrameworks>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <PackageId>SharpLearning.Containers</PackageId>
+    <PackageId>RAI.SharpLearning.Containers</PackageId>
     <Description>Provides containers and base extension methods for SharpLearning.</Description>
     <Copyright>Copyright © Mads Dabros 2014</Copyright>
     <SignAssembly>true</SignAssembly>

@@ -7,7 +7,7 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net461</TargetFrameworks>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <PackageId>SharpLearning.GradientBoost</PackageId>
+    <PackageId>RAI.SharpLearning.GradientBoost</PackageId>
     <Description>Provides learning algorithms and models for GradientBoost regression and classification.</Description>
     <PackageTags>gradientboost machinelearning classification regression machine learning</PackageTags>
     <SignAssembly>true</SignAssembly>

@@ -7,7 +7,7 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net461</TargetFrameworks>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <PackageId>SharpLearning.CrossValidation</PackageId>
+    <PackageId>RAI.SharpLearning.CrossValidation</PackageId>
     <Description>Provides cross-validation, training/test set samplers and learning curves for SharpLearning.</Description>
     <PackageTags>crossvalidation cross validation sampling learningcurves machine learning</PackageTags>
     <SignAssembly>true</SignAssembly>
