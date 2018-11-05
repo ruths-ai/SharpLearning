@@ -7,7 +7,7 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net461</TargetFrameworks>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <PackageId>SharpLearning.Neural</PackageId>
+    <PackageId>RAI.SharpLearning.Neural</PackageId>
     <Description>Provides learning algorithms and models for neural net regression and classification.</Description>
     <PackageTags>neural network convolutional deep learning machinelearning classification regression machine</PackageTags>
     <SignAssembly>true</SignAssembly>
