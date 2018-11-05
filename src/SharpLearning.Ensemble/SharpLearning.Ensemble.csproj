@@ -12,6 +12,7 @@
     <PackageTags>ensemblelearning machinelearning classification regression machine learning</PackageTags>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>RAI.snk</AssemblyOriginatorKeyFile>
+    <AssemblyName>RAI.SharpLearning.Ensemble</AssemblyName>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">

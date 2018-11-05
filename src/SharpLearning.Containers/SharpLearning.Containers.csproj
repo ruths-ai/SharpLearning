@@ -12,6 +12,7 @@
     <Copyright>Copyright © Mads Dabros 2014</Copyright>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>RAI.snk</AssemblyOriginatorKeyFile>
+    <AssemblyName>RAI.SharpLearning.Containers</AssemblyName>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">

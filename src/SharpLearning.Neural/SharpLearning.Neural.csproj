@@ -12,6 +12,7 @@
     <PackageTags>neural network convolutional deep learning machinelearning classification regression machine</PackageTags>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>RAI.snk</AssemblyOriginatorKeyFile>
+    <AssemblyName>RAI.SharpLearning.Neural</AssemblyName>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">

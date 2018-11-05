@@ -12,6 +12,7 @@
     <PackageTags>normalization minmax onehot missingvalues</PackageTags>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>RAI.snk</AssemblyOriginatorKeyFile>
+    <AssemblyName>RAI.SharpLearning.FeatureTransformations</AssemblyName>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">

@@ -12,6 +12,7 @@
     <PackageTags>crossvalidation cross validation sampling learningcurves machine learning</PackageTags>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>RAI.snk</AssemblyOriginatorKeyFile>
+    <AssemblyName>RAI.SharpLearning.CrossValidation</AssemblyName>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
